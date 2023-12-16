@@ -18,4 +18,8 @@ The goal of this project is to develop a classification model using Logistic Reg
 ## Diabetic Prediction in Pregnant Women using SVM [link](https://github.com/balaji00009/Python_Projects_-EDA-Regression-Visualizations/blob/main/SVM%20Diabetic_prediction%20of%20Women.ipynb)
 The primary objective of this project is to develop a predictive model using Support Vector Machines (SVM) to identify the likelihood of diabetes in pregnant women based on relevant health features.Pregnant women with diabetes face increased health risks, making early detection crucial for effective management. This project leverages SVM, a powerful machine learning algorithm, to analyze health-related data and predict whether a pregnant woman is at risk of developing diabetes.The dataset used in this project includes comprehensive health information about pregnant women, such as glucose levels, blood pressure, BMI, and historical diabetes status. This diverse dataset allows the SVM model to learn patterns and make predictions based on multiple features.
 
+## Palestine -- Isarael War conflict [link]()
+This is the csv Data set for fatalities count by region, type of ammuntion, citizenship whether they took part in Hostilites and many other factors. Loaded in Jupyter notebook, using pandas library, Exploratory data analysis done, cleaned & Imputed null values, also done visualizations using seaborn & Matplot library and finally utilized this cleaned data set for power bi visualizations.
+[Power BI Link][]
+
 ---
